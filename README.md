@@ -1,2 +1,3 @@
 # hello-world
-Rise
+Just awoken
+Hello to all, New days new ways, New eyes for the real world, ...
